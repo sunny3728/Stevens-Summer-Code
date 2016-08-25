@@ -1,3 +1,5 @@
+#Main project code. Uses graphics.py, snake.gif, and raspLogo.gif
+#written at summer workshop Mini-Hackathon july 2015
 from graphics import *
 import time
 import string
