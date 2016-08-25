@@ -1,3 +1,5 @@
+#simple led functions for raspberry pi.
+#written at summer workshop july 2015
 import RPi.GPIO as GPIO
 import time
 repeat = 50
