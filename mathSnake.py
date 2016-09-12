@@ -262,6 +262,6 @@ def genAns():
                 ans3.setText(rand3)
                 ans4.setText(rand4)
                 ans5.setText(answer)
-        
 
-mathGame()
+def main():
+        mathGame()
