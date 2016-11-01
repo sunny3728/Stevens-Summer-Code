@@ -266,3 +266,4 @@ def genAns():
 def main():
         mathGame()
         
+main();
